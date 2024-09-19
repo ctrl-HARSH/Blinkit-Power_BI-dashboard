@@ -1,7 +1,5 @@
 Blinkit Power_Bi Dashboard
 
-Dashboard Link: https://drive.google.com/file/d/1vVj_THe7JZkFSsNUtqmVCTR8hLQ7kcTs/view?usp=drive_link (Access the Dashboard here)
-
 Problem Statement:
 The Blinkit Power_Bi dashboard is designed to provide a detailed analysis of sales performance, outlet efficiency, and customer satisfaction across various regions and product categories. 
 By analyzing the data, stakeholders can gain valuable insights into the following:
